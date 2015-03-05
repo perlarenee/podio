@@ -1,8 +1,6 @@
 <?php
 require_once 'podio-php-4.0.2/PodioAPI.php';
 
-//WORKING EXCEPT FOR TASKS NOT TRIGGERING
-
 //CONFIG VARIABLES
 $client_id = '[id]';
 $client_secret = '[ID]';
